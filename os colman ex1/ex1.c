@@ -1,5 +1,5 @@
-// אופיר שטרוסברג, 207828641
-// לידור דנון, 211823240
+// Ofir Shtrosberg
+// Lidor Danon
 #include <sys/wait.h>
 #include <stdlib.h>
 #include <fcntl.h>
